@@ -11,9 +11,15 @@
   },
   "dependencies": {
     "@types/styled-components": "^5.1.26",
+    "immer": "^10.0.2",
+    "nanoid": "^4.0.2",
     "react": "^18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.2.0",
-    "styled-components": "^5.3.11"
+    "styled-components": "^5.3.11",
+    "throttle-debounce-ts": "^1.1.1",
+    "use-immer": "^0.9.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
